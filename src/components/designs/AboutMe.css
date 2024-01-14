@@ -1,0 +1,44 @@
+body {
+  font-family: 'Arial', sans-serif;
+  color: #ffffff;
+  overflow-y: auto;
+}
+
+.timeline-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  margin-left: 20%;
+  margin-top: 10%;
+  position: relative;
+}
+
+.timeline-line {
+  position: absolute;
+  left: 7px;
+  width: 2px;
+  margin-top: 7%;
+  height: 80%;
+  background-color: white;
+  z-index: 1;
+}
+
+.event {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.dot {
+  width: 20px;
+  height: 15px;
+  background-color: #ffffff;
+  border: 2px solid #3498db;
+  border-radius: 50%;
+  margin-right: 20px;
+  margin-top: 2%;
+  border-color: black;
+}
+
+.content {
+  flex-grow: 1;
+}

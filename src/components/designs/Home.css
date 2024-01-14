@@ -1,0 +1,18 @@
+/* Home.css */
+.name{
+    padding-bottom: 3%;
+}
+.home-container {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 10%;
+    height: 100vh; /* This makes the container take the full height of the viewport */
+  }
+  
+  /* Add additional styles for your specific content */
+  

@@ -1,0 +1,27 @@
+/* Add your styling for the TechnicalSkills component here */
+.technical-skills-container {
+    max-width: 800px;
+    margin: 50px auto;
+    color: #afacac;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .skill-category {
+    margin-bottom: 20px;
+    list-style-type: disc; /* Set the list style to bullet points */
+  }
+  
+  .skill-list {
+    list-style-type: decimal; /* Set the list style to bullet points */
+    margin-left: 3%;
+  }
+  
+  .skill-list-item {
+    margin-bottom: 8px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  

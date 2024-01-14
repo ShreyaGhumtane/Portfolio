@@ -1,0 +1,25 @@
+/* Add your styling for the Publications component here */
+.publications-container {
+    max-width: 800px;
+    margin: 50px auto;
+    color: #acdaf0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .publication {
+    margin-bottom: 30px;
+  }
+  
+  h1 {
+    margin-left: 25%;
+    color: white;
+  }
+  
+  h2 {
+    color: white;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
